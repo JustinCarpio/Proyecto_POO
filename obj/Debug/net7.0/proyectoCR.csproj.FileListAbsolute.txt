@@ -1,0 +1,42 @@
+C:\Users\justi\OneDrive\Escritorio\proyectoCR\bin\Debug\net7.0\proyectoCR.exe
+C:\Users\justi\OneDrive\Escritorio\proyectoCR\bin\Debug\net7.0\proyectoCR.deps.json
+C:\Users\justi\OneDrive\Escritorio\proyectoCR\bin\Debug\net7.0\proyectoCR.runtimeconfig.json
+C:\Users\justi\OneDrive\Escritorio\proyectoCR\bin\Debug\net7.0\proyectoCR.dll
+C:\Users\justi\OneDrive\Escritorio\proyectoCR\bin\Debug\net7.0\proyectoCR.pdb
+C:\Users\justi\OneDrive\Escritorio\proyectoCR\obj\Debug\net7.0\proyectoCR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\OneDrive\Escritorio\proyectoCR\obj\Debug\net7.0\proyectoCR.AssemblyInfoInputs.cache
+C:\Users\justi\OneDrive\Escritorio\proyectoCR\obj\Debug\net7.0\proyectoCR.AssemblyInfo.cs
+C:\Users\justi\OneDrive\Escritorio\proyectoCR\obj\Debug\net7.0\proyectoCR.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Escritorio\proyectoCR\obj\Debug\net7.0\proyectoCR.dll
+C:\Users\justi\OneDrive\Escritorio\proyectoCR\obj\Debug\net7.0\refint\proyectoCR.dll
+C:\Users\justi\OneDrive\Escritorio\proyectoCR\obj\Debug\net7.0\proyectoCR.pdb
+C:\Users\justi\OneDrive\Escritorio\proyectoCR\obj\Debug\net7.0\proyectoCR.genruntimeconfig.cache
+C:\Users\justi\OneDrive\Escritorio\proyectoCR\obj\Debug\net7.0\ref\proyectoCR.dll
+C:\Users\dell\Downloads\proyectoCR\proyectoCR\obj\Debug\net7.0\proyectoCR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Downloads\proyectoCR\proyectoCR\obj\Debug\net7.0\proyectoCR.AssemblyInfoInputs.cache
+C:\Users\dell\Downloads\proyectoCR\proyectoCR\obj\Debug\net7.0\proyectoCR.AssemblyInfo.cs
+C:\Users\dell\Downloads\proyectoCR\proyectoCR\obj\Debug\net7.0\proyectoCR.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\proyectoCR\proyectoCR\obj\Debug\net7.0\proyectoCR.dll
+C:\Users\dell\Downloads\proyectoCR\proyectoCR\obj\Debug\net7.0\refint\proyectoCR.dll
+C:\Users\dell\Downloads\proyectoCR\proyectoCR\obj\Debug\net7.0\proyectoCR.pdb
+C:\Users\dell\Downloads\proyectoCR\proyectoCR\bin\Debug\net7.0\proyectoCR.exe
+C:\Users\dell\Downloads\proyectoCR\proyectoCR\bin\Debug\net7.0\proyectoCR.deps.json
+C:\Users\dell\Downloads\proyectoCR\proyectoCR\bin\Debug\net7.0\proyectoCR.runtimeconfig.json
+C:\Users\dell\Downloads\proyectoCR\proyectoCR\bin\Debug\net7.0\proyectoCR.dll
+C:\Users\dell\Downloads\proyectoCR\proyectoCR\bin\Debug\net7.0\proyectoCR.pdb
+C:\Users\dell\Downloads\proyectoCR\proyectoCR\obj\Debug\net7.0\proyectoCR.genruntimeconfig.cache
+C:\Users\dell\Downloads\proyectoCR\proyectoCR\obj\Debug\net7.0\ref\proyectoCR.dll
+C:\Users\justi\OneDrive\Documentos\Desafios y actividad de mooodle\proyectoCR\bin\Debug\net7.0\proyectoCR.exe
+C:\Users\justi\OneDrive\Documentos\Desafios y actividad de mooodle\proyectoCR\bin\Debug\net7.0\proyectoCR.deps.json
+C:\Users\justi\OneDrive\Documentos\Desafios y actividad de mooodle\proyectoCR\bin\Debug\net7.0\proyectoCR.runtimeconfig.json
+C:\Users\justi\OneDrive\Documentos\Desafios y actividad de mooodle\proyectoCR\bin\Debug\net7.0\proyectoCR.dll
+C:\Users\justi\OneDrive\Documentos\Desafios y actividad de mooodle\proyectoCR\bin\Debug\net7.0\proyectoCR.pdb
+C:\Users\justi\OneDrive\Documentos\Desafios y actividad de mooodle\proyectoCR\obj\Debug\net7.0\proyectoCR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\OneDrive\Documentos\Desafios y actividad de mooodle\proyectoCR\obj\Debug\net7.0\proyectoCR.AssemblyInfoInputs.cache
+C:\Users\justi\OneDrive\Documentos\Desafios y actividad de mooodle\proyectoCR\obj\Debug\net7.0\proyectoCR.AssemblyInfo.cs
+C:\Users\justi\OneDrive\Documentos\Desafios y actividad de mooodle\proyectoCR\obj\Debug\net7.0\proyectoCR.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Documentos\Desafios y actividad de mooodle\proyectoCR\obj\Debug\net7.0\proyectoCR.dll
+C:\Users\justi\OneDrive\Documentos\Desafios y actividad de mooodle\proyectoCR\obj\Debug\net7.0\refint\proyectoCR.dll
+C:\Users\justi\OneDrive\Documentos\Desafios y actividad de mooodle\proyectoCR\obj\Debug\net7.0\proyectoCR.pdb
+C:\Users\justi\OneDrive\Documentos\Desafios y actividad de mooodle\proyectoCR\obj\Debug\net7.0\proyectoCR.genruntimeconfig.cache
+C:\Users\justi\OneDrive\Documentos\Desafios y actividad de mooodle\proyectoCR\obj\Debug\net7.0\ref\proyectoCR.dll
